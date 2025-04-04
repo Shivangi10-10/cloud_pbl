@@ -142,6 +142,3 @@ The **AI-Based Recipe Generator** successfully provides **quick recipe suggestio
 - **Project Demo Video**: [Loom Video](https://www.loom.com/share/b2a6428676ed49788088e7de49b3283d)  
 - **Live Project**: [Netlify Link](https://fffinalll.netlify.app/)  
 
----
-
-This README provides all necessary details about the **AI-Based Recipe Generator** project. 🚀 Let me know if you need any modifications! 🎯
